@@ -4,5 +4,5 @@ Jogos 2D com Unity
 <li>Jogo da Endless Runner </li>
 <li> Jogo Casual </li>
 <li> Jogo de Plataforma </li>
-  < !--&#10004</li> -->
+  
 </ul>
