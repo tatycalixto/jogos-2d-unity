@@ -1,2 +1,2 @@
-# jogos-2d-unity
-Arquivos do Módulo - Jogos 2D com Unity
+Jogos 2D com Unity
+Código do Módulo - Jogos 2D com Unity
